@@ -7,10 +7,6 @@ Dataset : US Accidents (2016 - 2023) by Sobhan Moosavi <br>
 Dataset Link : https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents <br>
 This is a countrywide car accident dataset that covers 49 states of the USA. The accident data were collected from February 2016 to March 2023, using multiple APIs that provide streaming traffic incident (or event) data. The dataset currently contains approximately **7.7 million** accident records.
 
-![image](https://github.com/user-attachments/assets/55bcb98c-935d-44f5-b9d9-8a03a93fbce7)
-![image](https://github.com/user-attachments/assets/22d8ebbc-54de-468a-b907-856155d1405c)
-![image](https://github.com/user-attachments/assets/5008c8bc-44e7-468e-a477-e629bd2b011c)
-
 ## Exploratory Data Analysis
 `import pandas as pd`
 
@@ -23,15 +19,13 @@ This is a countrywide car accident dataset that covers 49 states of the USA. The
 *checking datatype of columns* <br>
 `df.info()`
 
-* generating descriptive statistics for the dataframe* <br>
+*generating descriptive statistics for the dataframe* <br>
 `df.describe()`
 
-
-`
-numerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']
-numerics_df = df.select_dtypes(include=numerics)
-len(numerics_df.columns)
-`
+*checking for columns containing numerical values*
+`numerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64'] <br>
+numerics_df = df.select_dtypes(include=numerics) <br>
+len(numerics_df.columns)`
 
 Implement Targeted Traffic Management:
 
