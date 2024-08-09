@@ -19,7 +19,7 @@ This is a countrywide car accident dataset that covers 49 states of the USA. The
 *Loaading Dataset*
 ![image](https://github.com/user-attachments/assets/170886cb-e451-4415-a2d5-422ec860a283)
 
-*to check name of columns*
+*to check name of columns* <br>
 `df.columns` 
 
 
