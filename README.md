@@ -5,6 +5,6 @@ Investigate the patterns and trends in accident occurrences across the United St
 ## Dataset
 Dataset : US Accidents (2016 - 2023) by Sobhan Moosavi
 Dataset Link : https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
-This is a countrywide car accident dataset that covers 49 states of the USA. The accident data were collected from February 2016 to March 2023, using multiple APIs that provide streaming traffic incident (or event) data. The dataset currently contains approximately ** 7.7 million ** accident records.
+This is a countrywide car accident dataset that covers 49 states of the USA. The accident data were collected from February 2016 to March 2023, using multiple APIs that provide streaming traffic incident (or event) data. The dataset currently contains approximately **7.7 million** accident records.
 
 ![image](https://github.com/user-attachments/assets/170886cb-e451-4415-a2d5-422ec860a283)
