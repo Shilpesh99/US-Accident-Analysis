@@ -23,10 +23,10 @@ This is a countrywide car accident dataset that covers 49 states of the USA. The
 *generating descriptive statistics for the dataframe* <br>
 `df.describe()`
 
-*checking for columns containing numerical values*
-`numerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64'] <br>
-numerics_df = df.select_dtypes(include=numerics) <br>
-len(numerics_df.columns)`
+*checking for columns containing numerical values* <br>
+`numerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']` <br>
+`numerics_df = df.select_dtypes(include=numerics)` <br>
+`len(numerics_df.columns)`
 
 Implement Targeted Traffic Management:
 
