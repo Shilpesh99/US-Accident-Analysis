@@ -17,12 +17,21 @@ This is a countrywide car accident dataset that covers 49 states of the USA. The
 *Loaading Dataset*
 ![image](https://github.com/user-attachments/assets/170886cb-e451-4415-a2d5-422ec860a283)
 
-*to check name of columns* <br>
+*checking index for columns* <br>
 `df.columns` 
 
+*checking datatype of columns* <br>
+`df.info()`
+
+* generating descriptive statistics for the dataframe* <br>
+`df.describe()`
 
 
-
+`
+numerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']
+numerics_df = df.select_dtypes(include=numerics)
+len(numerics_df.columns)
+`
 
 Implement Targeted Traffic Management:
 
