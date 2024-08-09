@@ -12,7 +12,8 @@ This is a countrywide car accident dataset that covers 49 states of the USA. The
 
 ![image](https://github.com/user-attachments/assets/55bcb98c-935d-44f5-b9d9-8a03a93fbce7)
 ![image](https://github.com/user-attachments/assets/22d8ebbc-54de-468a-b907-856155d1405c)
-![image](https://github.com/user-attachments/assets/cfad025f-cbe5-49ee-8f55-d0d856a79602)
+![image](https://github.com/user-attachments/assets/5008c8bc-44e7-468e-a477-e629bd2b011c)
+
 
 
 ![image](https://github.com/user-attachments/assets/170886cb-e451-4415-a2d5-422ec860a283)
