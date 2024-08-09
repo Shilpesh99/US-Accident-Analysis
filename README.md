@@ -15,8 +15,8 @@ This is a countrywide car accident dataset that covers 49 states of the USA. The
 
 ## Exploratory Data Analysis
 
-\\ Importing pandas library for data manipulation
-`import pandas as pd`
+
+`import pandas as pd`  \\ Importing pandas library for data manipulation
 ![image](https://github.com/user-attachments/assets/170886cb-e451-4415-a2d5-422ec860a283)
 
 
