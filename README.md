@@ -38,7 +38,7 @@ This is a countrywide car accident dataset that covers 49 states of the USA. The
 *looking for number of unique values of city* <br>
 `uni_city = df.City.unique()` <br>
 `len(uni_city)` <br>
-![image](https://github.com/user-attachments/assets/ace0d1cb-a43a-4ac5-9bc0-4b08660fcee5)
+**13679**
 
 *checking for number of times cities occurs* <br>
 `accidents_by_city = df.City.value_counts()` <br>
@@ -52,7 +52,6 @@ Wildrose                             1 <br>
 Mc Nabb                              1 <br>
 American Fork-Pleasant Grove         1 <br>
 Name: count, Length: 13678, dtype: int64**
-![image](https://github.com/user-attachments/assets/15123a02-a668-4ee2-953e-86723901b142)
 
 `accidents_by_city[:20]`
 
