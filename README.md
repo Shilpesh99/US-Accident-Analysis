@@ -28,7 +28,8 @@ This is a countrywide car accident dataset that covers 49 states of the USA. The
 *checking for columns containing numerical values* <br>
 `numerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']` <br>
 `numerics_df = df.select_dtypes(include=numerics)` <br>
-`len(numerics_df.columns)`
+`len(numerics_df.columns)` <br>
+**13**
 
 *looking for null values* <br>
 `df.isnull().sum().sort_values(ascending=False)`
@@ -61,6 +62,7 @@ Name: count, Length: 13678, dtype: int64**
 `'NY' in df.State` <br>
 **False** <br>
 From the above observation we can see that this dataset doesn't contain 'New York City' data, even if this is the most populated city of US.
+
 
 
 Implement Targeted Traffic Management:
