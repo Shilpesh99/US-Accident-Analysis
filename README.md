@@ -32,7 +32,28 @@ This is a countrywide car accident dataset that covers 49 states of the USA. The
 
 *looking for null values* <br>
 `df.isnull().sum().sort_values(ascending=False)`
-
+End_Lat                  3402762
+End_Lng                  3402762
+Precipitation(in)        2203586
+Wind_Chill(F)            1999019
+Wind_Speed(mph)           571233
+Visibility(mi)            177098
+Wind_Direction            175206
+Humidity(%)               174144
+Weather_Condition         173459
+Temperature(F)            163853
+Pressure(in)              140679
+Weather_Timestamp         120228
+Nautical_Twilight          23246
+Civil_Twilight             23246
+Sunrise_Sunset             23246
+Astronomical_Twilight      23246
+Airport_Code               22635
+Street                     10869
+Timezone                    7808
+Zipcode                     1915
+City                         253
+Description                    5
 
 Implement Targeted Traffic Management:
 
