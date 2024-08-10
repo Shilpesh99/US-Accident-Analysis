@@ -43,15 +43,24 @@ This is a countrywide car accident dataset that covers 49 states of the USA. The
 *checking for number of times cities occurs* <br>
 `accidents_by_city = df.City.value_counts()` <br>
 `accidents_by_city` <br>
+**City
+Miami                           186917
+Houston                         169609
+Los Angeles                     156491
+...
+Wildrose                             1
+Mc Nabb                              1
+American Fork-Pleasant Grove         1
+Name: count, Length: 13678, dtype: int64**
 ![image](https://github.com/user-attachments/assets/15123a02-a668-4ee2-953e-86723901b142)
 
 `accidents_by_city[:20]`
 
 *checking for New York data* <br>
 `'New York' in df.City` <br>
-False <br>
+**False** <br>
 `'NY' in df.State` <br>
-False <br>
+**False** <br>
 From the above observation we can see that this dataset doesn't contain 'New York City' data, even if this is the most populated city of US.
 
 
