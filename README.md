@@ -32,28 +32,20 @@ This is a countrywide car accident dataset that covers 49 states of the USA. The
 
 *looking for null values* <br>
 `df.isnull().sum().sort_values(ascending=False)`
-End_Lat                  3402762
-End_Lng                  3402762
-Precipitation(in)        2203586
-Wind_Chill(F)            1999019
-Wind_Speed(mph)           571233
-Visibility(mi)            177098
-Wind_Direction            175206
-Humidity(%)               174144
-Weather_Condition         173459
-Temperature(F)            163853
-Pressure(in)              140679
-Weather_Timestamp         120228
-Nautical_Twilight          23246
-Civil_Twilight             23246
-Sunrise_Sunset             23246
-Astronomical_Twilight      23246
-Airport_Code               22635
-Street                     10869
-Timezone                    7808
-Zipcode                     1915
-City                         253
-Description                    5
+
+*EDA* <br>
+`df.City` <br>
+*looking for number of unique values of city* <br>
+`uni_city = df.City.unique()` <br>
+`len(uni_city)` <br>
+![image](https://github.com/user-attachments/assets/ace0d1cb-a43a-4ac5-9bc0-4b08660fcee5)
+
+*checking for number of times cities occurs* <br>
+`accidents_by_city = df.City.value_counts()` <br>
+`accidents_by_city` <br>
+![image](https://github.com/user-attachments/assets/15123a02-a668-4ee2-953e-86723901b142)
+
+
 
 Implement Targeted Traffic Management:
 
