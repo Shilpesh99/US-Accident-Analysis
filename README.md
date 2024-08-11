@@ -14,34 +14,34 @@ This is a countrywide car accident dataset that covers 49 states of the USA. The
 ![image](https://github.com/user-attachments/assets/b37ee6e2-64e5-4d89-a94e-025ddc59ff3c)
 
 ## Exploratory Data Analysis
-![image](https://github.com/user-attachments/assets/63515b94-6851-429f-ba38-0cb46ca63c81)
+![image](https://github.com/user-attachments/assets/63515b94-6851-429f-ba38-0cb46ca63c81) <br>
 From the above graph we can see that Miami has the highest number of accidents in US.
 
-![image](https://github.com/user-attachments/assets/129f7a99-804a-4173-b5c6-3e1b87503544)
+![image](https://github.com/user-attachments/assets/129f7a99-804a-4173-b5c6-3e1b87503544) <br>
 From the above graph we can see that most the cities in US have very less number of accidents.
 
-![image](https://github.com/user-attachments/assets/6a7ec7d0-f87d-4a17-b085-1260e7736339)
+![image](https://github.com/user-attachments/assets/6a7ec7d0-f87d-4a17-b085-1260e7736339) <br>
 From the above graph we can see that a higher percentage of accident occurs between 6am to 10pm and 3pm to 6pm.
 
-![image](https://github.com/user-attachments/assets/643af6d5-5b27-4aa0-a11c-0d25a15cd115)
+![image](https://github.com/user-attachments/assets/643af6d5-5b27-4aa0-a11c-0d25a15cd115) <br>
 From the above graph we can see that most accidents occurs on weekdays and less on weekends. 
 
-![image](https://github.com/user-attachments/assets/61742deb-4e0b-481e-afd7-458505dc9911)
+![image](https://github.com/user-attachments/assets/61742deb-4e0b-481e-afd7-458505dc9911) <br>
 From the above graph we can see that most of the accidents occurs in December.
 
-![image](https://github.com/user-attachments/assets/e56749c1-980d-4da2-ac8c-1b8453d3fd1f)
+![image](https://github.com/user-attachments/assets/e56749c1-980d-4da2-ac8c-1b8453d3fd1f) <br>
 From the above graph we can see that most accidents occurs on the East side of the US.
 
-![image](https://github.com/user-attachments/assets/c943a0be-5088-4822-9d4f-eced53a1a995)
+![image](https://github.com/user-attachments/assets/c943a0be-5088-4822-9d4f-eced53a1a995) <br>
 From the above graph we can see that most accident occurs in California, Florida and Texas.
 
-![image](https://github.com/user-attachments/assets/1674f41b-2f34-45f2-9d4e-75ba40d390c2)
+![image](https://github.com/user-attachments/assets/1674f41b-2f34-45f2-9d4e-75ba40d390c2) <br>
 From the above graph we can see that most accidents occurs in Fair, Mostly Cloudy, Cloudy, Clear and Partly Cloudy Weather Condition.
 
-![image](https://github.com/user-attachments/assets/bb27b720-6537-4f63-a594-ccda8ee839bd)
+![image](https://github.com/user-attachments/assets/bb27b720-6537-4f63-a594-ccda8ee839bd) <br>
 From the above graph we can see that most of the accidents occur in Cooler Areas or in Winter Season.
 
-![image](https://github.com/user-attachments/assets/60d6a7c2-6b38-4968-b272-cafcc12e603d)
+![image](https://github.com/user-attachments/assets/60d6a7c2-6b38-4968-b272-cafcc12e603d) <br>
 From the above graph we can see that the number of accidents are increasing year over year.
 
 ## Recommended Solution
