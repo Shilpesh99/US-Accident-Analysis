@@ -7,6 +7,12 @@ Dataset : US Accidents (2016 - 2023) by Sobhan Moosavi, *August,24*<br>
 Dataset Link : https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents <br>
 This is a countrywide car accident dataset that covers 49 states of the USA. The accident data were collected from *February 2016 to March 2023*, using multiple APIs that provide streaming traffic incident (or event) data. The dataset currently contains approximately *7.7 million* accident records.
 
+## Genaral Information
+-  The US is the 4th largest country in the world.
+-  The United States consists of 50 states.
+-  The United States consists of 19,495 cities. 14,768 of these have populations below 5,000.
+-  Top 5 populated states are New York - *8,258,035*, Los Angeles - *3,820,914*, Chicago - *2,664,452*, Houston - *2,314,157*, Phoenix - *1,650,070*
+
 ## Data Preprocessing
 `import pandas as pd`
 
