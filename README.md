@@ -11,7 +11,7 @@ This is a countrywide car accident dataset that covers 49 states of the USA. The
 -  The US is the 4th largest country in the world.
 -  The United States consists of 50 states.
 -  The United States consists of 19,495 cities. 14,768 of these have populations below 5,000.
--  Top 5 populated states are New York - *8,258,035*, Los Angeles - *3,820,914*, Chicago - *2,664,452*, Houston - *2,314,157*, Phoenix - *1,650,070*
+-  Top 5 populated states are New York - *8,258,035* Los Angeles - *3,820,914* Chicago - *2,664,452* Houston - *2,314,157* Phoenix - *1,650,070*
 
 ## Data Preprocessing
 `import pandas as pd`
