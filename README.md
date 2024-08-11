@@ -44,6 +44,26 @@ From the above graph we can see that most of the accidents occur in Cooler Areas
 ![image](https://github.com/user-attachments/assets/60d6a7c2-6b38-4968-b272-cafcc12e603d) <br>
 From the above graph we can see that the number of accidents are increasing year over year.
 
+## Ask and Answer Questions
+- Are there more accidents in warmer or coolder area?
+    - Coolder Area.
+- which top 5 city have the highest number of accidents?
+    - Miami 186917, Houston 169609, Los Angeles 156491, Charlotte 138652, Dallas 130939
+- Does New York show up in the data? if yes, why is the count lower if this the most populated city?
+    - Even though New York City is most populated city of US the data was unavailable.
+- Among top 100 cities in number of accident, which states do they belong to most?
+    - California (CA).
+- What time of the day are accidents most frequent in?
+    - 6am to 10pm and 3pm to 6pm.
+- Which days of the week have the most accidents?
+    - Weedays (Most accidents occurs on Fridays).
+- Which months of the year have the most accidents?
+    - Winter Months (Most accidents occurs in Decembers)
+- What is the trend of accidents year over year? (Decreasing/Increasing)
+    - Increasing.
+- Is the distribution of accidents by hour the same on weekends as on weekdays?
+    - No, on weekdays the peak occurs between 6am to 10am and 3pm to 6pm where on weekends the peak occurs between 11am to 4pm.
+
 ## Summary and Conclusion
 ### Insights :
 - No data for New York City.
