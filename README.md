@@ -44,6 +44,30 @@ From the above graph we can see that most of the accidents occur in Cooler Areas
 ![image](https://github.com/user-attachments/assets/60d6a7c2-6b38-4968-b272-cafcc12e603d) <br>
 From the above graph we can see that the number of accidents are increasing year over year.
 
+## Summary and Conclusion
+### Insights :
+- No data for New York City.
+- Miami has highest number of accidents.
+- Less than 8% of cities have more than 1000 yearly accidents.
+- Over more than 1000 cities have reported just one accident (need to investigate).
+- Traffic information is unavailable.
+- Highest percentage of accidents occurs between 6am to 10am.
+- The higher number of accidents occurs on weekdays.
+- The distribution of accident by hours are not same on weekdays and weekends.
+- December experiences the peak in accident frequency.
+- First 3 months data available for 2023.
+- The Sources of the data is unclear or unknown.
+- California leads in having most cities with the high frequency of accidents.
+- While Miami records the highest number of accidents among individual cities, California has the highest number of cities with frequent accidents.
+- The majority of accidents are concentrated in the Eastern United States.
+- Accidents are most frequent in fair weather conditions.
+- Even though the weather is fair, most accidents occur between 6 AM and 10 AM on weekdays, likely due to heavy traffic as people rush to get to work.
+- Accidents are more frequent in cooler areas or during the winter season.
+- The number of accidents has been increasing year over year.
+
+### Conclusion :
+Miami has the highest number of accidents among individual cities, while California has the most cities with high accident frequencies. Most accidents occur between 6 AM and 10 AM on weekdays, especially in fair weather and cooler areas. Overall, accidents have been increasing year over year, with December showing the peak frequency.
+
 ## Recommended Solution
 Implement Targeted Traffic Management: <br>
 Focus on high-accident areas, especially in cities like Miami and California. Enhance traffic control measures during peak hours (6 AM to 10 AM) and weekdays to manage congestion.
