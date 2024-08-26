@@ -13,5 +13,8 @@ This is a countrywide car accident dataset that covers 49 states of the USA. The
 ![image](https://github.com/user-attachments/assets/1fb3465c-dc6a-4695-a0ad-f8a360320de8) <br>
 ![image](https://github.com/user-attachments/assets/b37ee6e2-64e5-4d89-a94e-025ddc59ff3c)
 
+## Report
+https://github.com/Shilpesh99/US-Accident-Analysis/blob/932a5e4b4d2d7712d28422721ab07cc82d491817/US-Accident-Report.pdf
+
 ### Conclusion :
 Miami has the highest number of accidents among individual cities, while California has the most cities with high accident frequencies. Most accidents occur between 6 AM and 10 AM on weekdays, especially in fair weather and cooler areas. Overall, accidents have been increasing year over year, with December showing the peak frequency.
